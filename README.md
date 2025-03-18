@@ -1,4 +1,4 @@
-# 🚀 LeetCode ML Solutions
+# 🚀 Machine Learning 101 
 
 This repository documents my journey through **LeetCode's Machine Learning problems**, covering **data preprocessing, supervised/unsupervised learning, deep learning, and model evaluation**.
 
@@ -12,7 +12,7 @@ This repository documents my journey through **LeetCode's Machine Learning probl
 ## 🔧 **Setup & How to Run**
 ### 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/nessakodo/LeetCode-ML.git
+git clone https://github.com/nessakodo/ml101.git
 cd LeetCode-ML
 ```
 ### 2️⃣ Install dependencies
