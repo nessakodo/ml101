@@ -13,7 +13,7 @@ This repository documents my journey through **LeetCode's Machine Learning probl
 ### 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/nessakodo/ml101.git
-cd LeetCode-ML
+cd ml101
 ```
 ### 2️⃣ Install dependencies
 ```bash
