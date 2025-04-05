@@ -10,6 +10,7 @@ This repository documents my journey through **LeetCode's Machine Learning probl
 ---
 
 ## 🔧 **Setup & How to Run**
+
 ### 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/nessakodo/ml101.git
@@ -26,3 +27,4 @@ Copy code
 jupyter notebook
 ```
 Open any .ipynb file and run the cells.
+
